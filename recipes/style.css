@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(252, 244, 244);
+}
+
+#title {
+    font: "Monaco";
+    font-weight: 900;
+    background-color: rgb(96, 168, 120);
+}
+
+.image {
+    width: 200px;
+    height: auto;
+}
+
+.header {
+    background-color: pink;
+}
+
+.smallheader {
+    background-color: rgb(183, 141, 223);
+}
+
+.list {
+    background-color: rgb(141, 233, 240);
+    font-family: 'Times New Roman', Times, serif
+}
