@@ -1,0 +1,52 @@
+* {
+    background-color: rgb(252, 244, 244);
+}
+
+#maintitle {
+    margin: 0 auto;
+    margin-top: 15px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(148, 146, 146);
+    color: white;
+    padding: 10px;
+}
+
+.option {
+    box-sizing: border-box;
+    width: 500px;
+    padding: 50px;
+    font-weight: bold;
+    background-color: rgb(219, 219, 248);
+    font-size: x-large;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    /* useless line */
+    display: block;
+}
+
+#title {
+    font: "Monaco";
+    font-weight: 900;
+    background-color: rgb(96, 168, 120);
+}
+
+.image {
+    width: 200px;
+    height: auto;
+}
+
+.header {
+    background-color: pink;
+}
+
+.smallheader {
+    background-color: rgb(183, 141, 223);
+}
+
+.list {
+    background-color: rgb(141, 233, 240);
+    font-family: 'Times New Roman', Times, serif;
+}
